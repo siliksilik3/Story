@@ -1,0 +1,17 @@
+[33mcommit d4b974e096119a5dd9fd8f3551392c6d274c17cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch1[m[33m)[m
+Author: Aleksandrs Silibitkins <silibitkins.aleksandrs@gmail.com>
+Date:   Sat Oct 12 17:38:33 2024 +0300
+
+    Chapter 2 and 1 modify in feature branch
+
+[33mcommit cf8803550f7763328cb9b8011522558d42bb20b2[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Aleksandrs Silibitkins <silibitkins.aleksandrs@gmail.com>
+Date:   Mon Oct 7 11:55:52 2024 +0300
+
+    Complit chapter 2 and 3
+
+[33mcommit 6408d8480c3f0ca9881d832305f9a5d22097fa31[m
+Author: Aleksandrs Silibitkins <silibitkins.aleksandrs@gmail,com>
+Date:   Mon Oct 7 11:50:16 2024 +0300
+
+    Complete chapter 1
